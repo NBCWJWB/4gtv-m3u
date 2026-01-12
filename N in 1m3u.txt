@@ -440,3 +440,4 @@ http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="MYTV",TVB星河
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+
