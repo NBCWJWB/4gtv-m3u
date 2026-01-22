@@ -7,6 +7,10 @@ http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
 https://tuiliu.go-iptv.ggff.net/baogutai/stream.m3u8
 #EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="广东",Now爆谷星影台
 https://tuiliu.go-iptv.ggff.net/xingyingtai/stream.m3u8
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="广东",TVB星河
+ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="广东",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 
 #EXTINF:-1 group-title="央视" ,cctv1-MCP
 https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=2133198107&sign=7635df566ae2da71f4bb0e3d6064044e138da0190f9538dbeb81894863f7208089822b6ec70d49a4ee1e49ba967d936908026fee0e1c13823dc4955a52b54152b4ecaefcac76e4e0b87b9163b6&auth_token=d8c9c8dc43f2fb930fca5764d0e836ab
